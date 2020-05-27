@@ -1,0 +1,21 @@
+.button-container {
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 1.4em;
+  background-color: #8F96D1;
+  text-decoration: none;
+  display: flex;
+  flex: 1;
+  cursor: pointer;
+  justify-content: center;
+  height: 4em;
+  align-items: center;
+  outline: 1px solid #888 ;
+}
+
+
+
+.operator{
+  background-color: firebrick;
+  color: #FFFFFF;
+}
